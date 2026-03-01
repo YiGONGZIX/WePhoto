@@ -1,7 +1,7 @@
 /**
  * Notes: 服务者管理控制器模块
  * Ver : CCMiniCloud Framework 2.0.3 ALL RIGHTS RESERVED BY cclinuX0730 (wechat)
- * Date: 2023-01-16 19:20:00 
+ * Date:  01-16 19:20:00 
  */
 
 const BaseController = require('../../../../framework/platform/controller/base_controller.js');

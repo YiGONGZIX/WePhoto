@@ -3,7 +3,7 @@
 	CLOUD_ID: 'cloud1-3go08kosfd9d453c', //云服务id ,本地测试环境 
 
 	// #### 版本信息 
-	VER: 'build 2023.06.01',
+	VER: 'build CC.06.01',
 	COMPANY: '联系作者',
 
 	// #### 系统参数 
